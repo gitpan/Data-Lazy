@@ -8,3 +8,7 @@ up to 0.5
 
 0.5	Fri Feb  8 23:30:19 2002 GMT
 	- module renamed to Data::Lazy
+
+0.6	Mon Jan  5 12:49:16 NZDT 2004
+	- added untie support, test suite
+	- POD fixes and enhancements
